@@ -1,0 +1,88 @@
+AOMEI Backupper 5.3.0 log is as follows:
+
+====================== System Information ======================
+Module Path: C:\Program Files (x86)\AOMEI Backupper\Backupper.exe
+Product Name: Windows 10 Home (6.2.9200.2)
+Service Package: 
+OS Version: 6.3
+Total Memory: 8163 MB
+Available Memory: 5088 MB
+System Root: C:\WINDOWS
+Processor Architecture: AMD64
+Processor Number: 4
+Current Time: 2020-2-8 11:10:58
+================================================================
+
+[0       ]green.cpp(218): ============== SystemVersion ==============
+[0       ]green.cpp(219): System version: 6.2
+[0       ]green.cpp(220): IsWow64: 1
+Schedule.h(141): Failed to reload task.xml by ABService
+[2       ]::GetFileAttributesA(sCurPath)!=INVALID_FILE_ATTRIBUTES return code: 0x0103100B, NetworkMgr.cpp(259).
+[0       ]green.cpp(218): ============== SystemVersion ==============
+[0       ]green.cpp(219): System version: 6.2
+[0       ]green.cpp(220): IsWow64: 1
+[2       ]Version==1 return code: 0x00000002, green.cpp(726).
+DiskIO.h(76): Open disk: 0
+diskinfo.h(451): Failed to init GPT style table.
+DiskIO.h(76): Open disk: 0
+DiskIO.h(76): Open disk: 0
+DiskIO.h(76): Open disk: 0
+DiskIO.h(76): Open disk: 0
+DiskIO.h(76): Open disk: 0
+DiskIO.h(76): Open disk: 0
+[2       ]dyndisk.cpp(213): Failed to RegQueryValueEx on GetSysDgGuid.
+[2       ]dynvol.cpp(175): Dyn volume sym: \Device\HarddiskVolume1
+[0       ]dynvol.cpp(175): Dyn volume sym: \Device\HarddiskVolume2
+[0       ]dynvol.cpp(175): Dyn volume sym: \Device\HarddiskVolume3
+[0       ]ldmio.cpp(89): No dynamic disks are found.
+
+
+
+//////////////////////////////Dump Information////////////////////////////
+
+
+Dump Disk:
+================================================================
+Disk Index	Total Sector		Geometry			Product Name
+----------	------------		--------			------------
+0		625142448 (298.09GB)	(38913,255,63)			WDC WD3200AAKS-00V1A0 (Basic Disk,MBR,Sig: d2bdd2bd)
+
+
+
+
+Dump Volume:
+================================================================
+ID	Volume	File System	Total Sector		Used Sector		Free Sector		Type		Status				Cluster Size	Volume Label
+--	------	-----------	------------		-----------		-----------		----		------				------------	------------
+
+0.0	*:	NTFS        	204799     (100.00MB)	63376      (30.95MB)	141423     (69.05MB)	Primary   	Ok,Act,Sys          		8		System Reserved
+0.1	C:	NTFS        	623856147  (297.48GB)	53490960   (25.51GB)	570365187  (271.97GB)	Primary   	Ok,Boot             		8		
+0.2	*:	NTFS        	1075199    (525.00MB)	899160     (439.04MB)	176039     (85.96MB)	Primary   	Ok                  		8		
+
+
+
+Dump Slice:
+================================================================
+ID	ParentID	SequenceID	Offset Sector		Start Sector		Slice Size		Unallocated
+--	--------	----------	-------------		------------		----------		-----------
+
+Schedule.h(141): Failed to reload task.xml by ABService
+Schedule.h(141): Failed to reload task.xml by ABService
+[0       ]SelBackupDiskOrPartPage.cpp(214): open oneKey reg fail
+[0       ]green.cpp(218): ============== SystemVersion ==============
+[0       ]green.cpp(219): System version: 6.2
+[0       ]green.cpp(220): IsWow64: 1
+[0       ]green.cpp(218): ============== SystemVersion ==============
+[0       ]green.cpp(219): System version: 6.2
+[0       ]green.cpp(220): IsWow64: 1
+[0       ]green.cpp(218): ============== SystemVersion ==============
+[0       ]green.cpp(219): System version: 6.2
+[0       ]green.cpp(220): IsWow64: 1
+[0       ]Utility.cpp(586): AdjustTokenPrivileges 0
+[0       ]Utility.cpp(586): AdjustTokenPrivileges 0
+[0       ]Utility.cpp(586): AdjustTokenPrivileges 0
+[0       ]Utility.cpp(586): AdjustTokenPrivileges 0
+[2250    ]cmn.cpp(7312):  no ok
+[2250    ]dwErrCode==NO_ERROR return code: 0x000008CA, helper.cpp(359).
+[2250    ]brwcs2wcs(pTmp, pPath, BufLength)>0 return code: 0x000008CA, helper.cpp(353).
+[0       ]helper.cpp(235): Service running

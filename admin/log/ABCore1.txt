@@ -1,0 +1,57 @@
+AOMEI Backupper 5.3.0 log is as follows:
+
+====================== System Information ======================
+Module Path: C:\Program Files (x86)\AOMEI Backupper\ABCore.exe
+Product Name: Windows 10 Home (6.2.9200.2)
+Service Package: 
+OS Version: 6.3
+Total Memory: 8163 MB
+Available Memory: 4863 MB
+System Root: C:\WINDOWS
+Processor Architecture: AMD64
+Processor Number: 4
+Current Time: 2020-2-15 12:49:10
+================================================================
+
+m_hMapFile!=NULL return code: 0x00000002, MemMap.h(100).
+m_MemMap.Open(SHARE_MEM_NAME, FILE_MAP_READ|FILE_MAP_WRITE, sizeof(MEM_MAIN_HEAD)) return code: 0x00000000, ShareMem.h(152).
+[0       ]helper.cpp(1801): (null)
+[0       ]vecParamLst.size()==2 return code: 0x00000000, helper.cpp(222).
+[0       ]BackupLogic.cpp(195): >>>>>>>>>>>>>>>>>>>>>> Start work thread >>>>>>>>>>>>>>>>>>>>>>>>>
+[2       ]::GetFileAttributesA(sCurPath)!=INVALID_FILE_ATTRIBUTES return code: 0x0103100B, NetworkMgr.cpp(259).
+[0       ]green.cpp(218): ============== SystemVersion ==============
+[0       ]green.cpp(219): System version: 6.2
+[0       ]green.cpp(220): IsWow64: 1
+[2       ]Version==1 return code: 0x00000002, green.cpp(726).
+[2250    ]dwErrCode==NO_ERROR return code: 0x000008CA, helper.cpp(359).
+[2250    ]dwErrCode==NO_ERROR return code: 0x000008CA, helper.cpp(359).
+[2250    ]brwcs2wcs(pTmp, pPath, BufLength)>0 return code: 0x000008CA, helper.cpp(353).
+[2       ]::GetFileAttributesA(sCurPath)!=INVALID_FILE_ATTRIBUTES return code: 0x0103100B, NetworkMgr.cpp(259).
+Backup Parameters:
+MediaType             = 0
+BackupType            = 0
+NetWriteSpeed         = 0
+EncryptLevel          = 1
+SplitFileSize         = 0
+NetWriteSpeed         = 0
+DependencyVer         = -1
+PasswordProtect       = 0
+IsCheckImgAfter       = 0
+IsNotBackupSub        = 0
+IsNotBackupHideFile   = 0
+IsNotbackupSystem     = 0
+TempFolder        = C:\Users\APPLIC~1\AppData\Local\Temp\
+ImgFilePath       = C:\Backups\Application\My File Backup\
+[18      ]vtrImgList.size()>0 return code: 0x00CF100B, ImageReaderHelp.cpp(207).
+[18      ]SearchImageFiles(wsPath, wsTaskName, stGuid, m_vtrImageList) return code: 0x00CF100B, ImageReaderHelp.cpp(62).
+[18      ]FileList.size() return code: 0x0235100B, ImageReaderHelp.cpp(565).
+Create VSS successful!
+[0       ]FuncFileBackup.cpp(1127): Filebackup successfully.
+[0       ]wszImgPath[0]==TEXT('\\') return code: 0x00000000, UiRecord.cpp(3759).
+[0       ]m_pTaskRecords->IsPolicy(iIndex) return code: 0x00000000, UiTaskMgr.cpp(2512).
+[0       ]UiTaskMgr.cpp(1233): PolicyManager error.
+[0       ]IsNeedSendUserExperience() return code: 0x00000000, SendGAData.cpp(886).
+[1008    ]TaskInfo.bSendMail return code: 0x00000000, helper.cpp(1457).
+[0       ]m_hMonitor!=INVALID_HANDLE_VALUE return code: 0x00000000, BackupLogic.cpp(1431).
+[2       ]GetFileAttributesA(szDir)!=INVALID_FILE_ATTRIBUTES return code: 0x00000002, helper.cpp(688).
+[2       ]ReadFromeSchedFile(szwParam, 1024*sizeof(WCHAR)) return code: 0x00000002, helper.cpp(728).
