@@ -1,0 +1,23 @@
+AOMEI Backupper 5.3.0 log is as follows:
+
+====================== System Information ======================
+Module Path: C:\Program Files (x86)\AOMEI Backupper\Backupper.exe
+Product Name: Windows 10 Home (6.2.9200.2)
+Service Package: 
+OS Version: 6.3
+Total Memory: 8163 MB
+Available Memory: 4930 MB
+System Root: C:\WINDOWS
+Processor Architecture: AMD64
+Processor Number: 4
+Current Time: 2020-2-15 13:51:50
+================================================================
+
+[0       ]green.cpp(218): ============== SystemVersion ==============
+[0       ]green.cpp(219): System version: 6.2
+[0       ]green.cpp(220): IsWow64: 1
+[2       ]::GetFileAttributesA(sCurPath)!=INVALID_FILE_ATTRIBUTES return code: 0x0103100B, NetworkMgr.cpp(259).
+[0       ]green.cpp(218): ============== SystemVersion ==============
+[0       ]green.cpp(219): System version: 6.2
+[0       ]green.cpp(220): IsWow64: 1
+[2       ]Version==1 return code: 0x00000002, green.cpp(726).

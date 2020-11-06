@@ -1,0 +1,18 @@
+AOMEI Backupper 5.3.0 log is as follows:
+
+====================== System Information ======================
+Module Path: C:\xampp\htdocs\SACM\sacm\SACM\admin\Backupper.exe
+Product Name: Windows 10 Home (6.2.9200.2)
+Service Package: 
+OS Version: 6.3
+Total Memory: 8147 MB
+Available Memory: 3050 MB
+System Root: C:\WINDOWS
+Processor Architecture: AMD64
+Processor Number: 4
+Current Time: 2020-3-2 14:12:41
+================================================================
+
+[0       ]green.cpp(218): ============== SystemVersion ==============
+[0       ]green.cpp(219): System version: 6.2
+[0       ]green.cpp(220): IsWow64: 1

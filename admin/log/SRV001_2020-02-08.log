@@ -1,0 +1,19 @@
+[2020-02-08 11:11:00][Message]=======================11:11:00========================= 
+[2020-02-08 11:11:01][Message]Initialize adapter count:1. 
+[2020-02-08 11:11:01][Message]Description:Realtek 8811CU Wireless LAN 802.11ac USB NIC Ip:192.168.1.8 Mask:255.255.255.0 
+[2020-02-08 11:11:01][Message]Startup Service Current Version<0x5060002>. 
+[2020-02-08 11:12:36][Message]ABCore.exe Connect:1580 
+[2020-02-08 11:29:39][Message]Rev Network Card Device \\?\{5d624f94-8850-40c3-a3fa-a4fd2080baf3}#vwifimp_wfd#7&5ac7249&0&11#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{BE7EF436-A848-4268-B54C-298BC7C7EE5F}. 
+[2020-02-08 11:29:39][Message]Rev Network Card Device \\?\{5d624f94-8850-40c3-a3fa-a4fd2080baf3}#vwifimp_wfd#7&5ac7249&0&12#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{05AC34C4-48D7-4E6F-93D2-81F0F685F328}. 
+[2020-02-08 11:29:39][Message]Rev Network Card Device \\?\USB#VID_0BDA&PID_C811#123456#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{F5AC640E-7DC1-4AE7-BB04-51433E3A25A9}. 
+[2020-02-10 17:38:21][Message]Add Network Card Device \\?\USB#VID_0BDA&PID_8179#00E04C0001#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{58412082-6583-4922-B1A5-7F0B271A37DA} . 
+[2020-02-10 17:38:21][Message]EnableRestartup.Wait:8000 
+[2020-02-10 17:38:22][Message]Add Network Card Device \\?\{5d624f94-8850-40c3-a3fa-a4fd2080baf3}#vwifimp_wfd#7&17a4e872&0&13#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{479DC187-6AD6-48B3-925F-83A7DD9A7AA4} . 
+[2020-02-10 17:38:29][Message]Initialize adapter count:0. 
+[2020-02-10 17:38:29][Error]Initialize Adapter Failed. 
+[2020-02-10 17:38:29][Error]Restartup Service Failed. 
+[2020-02-10 17:40:12][Message]Add Network Card Device \\?\{5d624f94-8850-40c3-a3fa-a4fd2080baf3}#vwifimp_wfd#7&17a4e872&0&14#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{6586C616-00A1-44D7-8072-CCF7013BB4E1} . 
+[2020-02-10 17:40:12][Message]EnableRestartup.Wait:8000 
+[2020-02-10 17:40:20][Message]Initialize adapter count:0. 
+[2020-02-10 17:40:20][Error]Initialize Adapter Failed. 
+[2020-02-10 17:40:20][Error]Restartup Service Failed. 
